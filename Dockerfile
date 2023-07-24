@@ -8,7 +8,6 @@ COPY ./app /app
 COPY requirements.dev.txt /tmp/requirements.dev.txt
 WORKDIR /app
 EXPOSE 8000
-EXPOSE 5432
 
 ARG DEV=false
 RUN python -m venv /py && \
