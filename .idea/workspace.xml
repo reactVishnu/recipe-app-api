@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="657c9964-1537-4bc5-9593-4776e1beff28" name="Changes" comment="Sync Changes">
+    <list default="true" id="657c9964-1537-4bc5-9593-4776e1beff28" name="Changes" comment="New Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/test/test_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/test/test_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690182103446</updated>
-      <workItem from="1690182105335" duration="5621000" />
+      <workItem from="1690182105335" duration="6600000" />
     </task>
     <task id="LOCAL-00001" summary="Sync Changes">
       <option name="closed" value="true" />
@@ -56,7 +54,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690189075531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Changes">
+      <option name="closed" value="true" />
+      <created>1690190279172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690190279172</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Changes">
+      <option name="closed" value="true" />
+      <created>1690190421354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690190421354</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sync Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sync Changes" />
+    <MESSAGE value="New Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Changes" />
   </component>
 </project>
