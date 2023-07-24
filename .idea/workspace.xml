@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="657c9964-1537-4bc5-9593-4776e1beff28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/core/test/test_model.py" afterDir="false" />
+    <list default="true" id="657c9964-1537-4bc5-9593-4776e1beff28" name="Changes" comment="Sync Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/test/test_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/test/test_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/test/test_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/test/test_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +46,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690182103446</updated>
-      <workItem from="1690182105335" duration="4249000" />
+      <workItem from="1690182105335" duration="5621000" />
     </task>
+    <task id="LOCAL-00001" summary="Sync Changes">
+      <option name="closed" value="true" />
+      <created>1690189075531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690189075531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sync Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sync Changes" />
   </component>
 </project>
