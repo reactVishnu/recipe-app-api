@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="657c9964-1537-4bc5-9593-4776e1beff28" name="Changes" comment="Last Try Bruh">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/migrations/0002_alter_user_managers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/test/test_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/test/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/test/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/test/test_user_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/test/test_user_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,23 +31,26 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2T0ZkiSERCJx6cBjDMCofwcmndr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/kali/Desktop/Django Course/DjangoRestFramework/recipe-app-api",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kali/Desktop/Django Course/DjangoRestFramework/recipe-app-api&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +61,14 @@
       <updated>1690182103446</updated>
       <workItem from="1690182105335" duration="16577000" />
       <workItem from="1690608586112" duration="1013000" />
+      <workItem from="1690618753475" duration="1128000" />
+      <workItem from="1690693460112" duration="8376000" />
+      <workItem from="1690706192052" duration="597000" />
+      <workItem from="1690785576787" duration="6806000" />
+      <workItem from="1690814525687" duration="3387000" />
+      <workItem from="1690836032487" duration="1285000" />
+      <workItem from="1690838502033" duration="5192000" />
+      <workItem from="1690958204782" duration="1709000" />
     </task>
     <task id="LOCAL-00001" summary="Sync Changes">
       <option name="closed" value="true" />
